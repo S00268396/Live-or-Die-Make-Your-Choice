@@ -1,0 +1,15 @@
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.exe.config
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.exe
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.pdb
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.csproj.AssemblyReference.cache
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.csproj.CoreCompileInputs.cache
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.exe
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.pdb
+C:\Users\EmiliaDobrucka-STUDE\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.exe.config
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.exe.config
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.exe
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\bin\Debug\OOP_CA2_Emilia_Dobrucka.pdb
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.csproj.AssemblyReference.cache
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.csproj.CoreCompileInputs.cache
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.exe
+C:\Users\Emill\Source\Repos\oop-ca2-2025-2026-escaperoom-S00268396\OOP_CA2_Emilia_Dobrucka\obj\Debug\OOP_CA2_Emilia_Dobrucka.pdb
